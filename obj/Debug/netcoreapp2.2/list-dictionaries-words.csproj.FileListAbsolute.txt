@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\list-dictionaries-words\bin\Debug\netcoreapp2.2\list-dictionaries-words.deps.json
+C:\Users\Cliff\backend\list-dictionaries-words\bin\Debug\netcoreapp2.2\list-dictionaries-words.runtimeconfig.json
+C:\Users\Cliff\backend\list-dictionaries-words\bin\Debug\netcoreapp2.2\list-dictionaries-words.runtimeconfig.dev.json
+C:\Users\Cliff\backend\list-dictionaries-words\bin\Debug\netcoreapp2.2\list-dictionaries-words.dll
+C:\Users\Cliff\backend\list-dictionaries-words\bin\Debug\netcoreapp2.2\list-dictionaries-words.pdb
+C:\Users\Cliff\backend\list-dictionaries-words\obj\Debug\netcoreapp2.2\list-dictionaries-words.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\list-dictionaries-words\obj\Debug\netcoreapp2.2\list-dictionaries-words.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\list-dictionaries-words\obj\Debug\netcoreapp2.2\list-dictionaries-words.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\list-dictionaries-words\obj\Debug\netcoreapp2.2\list-dictionaries-words.AssemblyInfo.cs
+C:\Users\Cliff\backend\list-dictionaries-words\obj\Debug\netcoreapp2.2\list-dictionaries-words.dll
+C:\Users\Cliff\backend\list-dictionaries-words\obj\Debug\netcoreapp2.2\list-dictionaries-words.pdb
